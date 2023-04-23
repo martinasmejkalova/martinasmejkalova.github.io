@@ -1,31 +1,11 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+<html>
+  <head>
+    <title>Martina's GitHub Page</title>
+  </head>
+  <body>
+    <h1>Welcome to Martina's GitHub Page</h1>
+    <p>Hi there, I'm Martina and I'm passionate about visualizing data. With my knowledge of SQL and expertise in Tableau and PowerBI, I create interactive and engaging visualizations using datasets downloaded from Kaggle and other sources. You can explore all of my data visualization projects on this page, along with access to the source codes on GitHub.</p>
+    <p>The website has been designed by "HTML 5 UP" and provides a sleek and modern design that is both easy to navigate and pleasing to the eye. You can visit my website at <a href="https://martinasmejkalova.github.io/">https://martinasmejkalova.github.io/</a>.</p>
+    <p>Thank you for visiting my page and please feel free to reach out to me if you have any questions or would like to collaborate on a project.</p>
+  </body>
+</html>
